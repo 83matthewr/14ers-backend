@@ -1,0 +1,8 @@
+type Mountain {
+    id: ID!
+    name: String!
+}
+
+type Query {
+    mountains: [Mountain]
+}
