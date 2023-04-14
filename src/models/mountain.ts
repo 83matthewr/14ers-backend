@@ -5,7 +5,8 @@ const MountainSchema = new Schema({
     name: String
 });
 
-const Mountain = mongoose.model('Mountains', MountainSchema);
+const Mountain = mongoose.model('mountain', MountainSchema);
 
 export default Mountain;
+
 
