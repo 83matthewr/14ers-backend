@@ -4,6 +4,7 @@ export type InputMaybe<T> = Maybe<T>;
 export type Exact<T extends { [key: string]: unknown }> = { [K in keyof T]: T[K] };
 export type MakeOptional<T, K extends keyof T> = Omit<T, K> & { [SubKey in K]?: Maybe<T[SubKey]> };
 export type MakeMaybe<T, K extends keyof T> = Omit<T, K> & { [SubKey in K]: Maybe<T[SubKey]> };
+export type RequireFields<T, K extends keyof T> = Omit<T, K> & { [P in K]-?: NonNullable<T[P]> };
 /** All built-in and custom scalars, mapped to their actual values */
 export type Scalars = {
   ID: string;
@@ -15,13 +16,33 @@ export type Scalars = {
 
 export type Mountain = {
   __typename?: 'Mountain';
-  id: Scalars['ID'];
   name: Scalars['String'];
+};
+
+export type Mutation = {
+  __typename?: 'Mutation';
+  createMountain: Mountain;
+  deleteMountain: DeleteMountainPayload;
+};
+
+
+export type MutationCreateMountainArgs = {
+  name: Scalars['String'];
+};
+
+
+export type MutationDeleteMountainArgs = {
+  id?: InputMaybe<Scalars['ID']>;
 };
 
 export type Query = {
   __typename?: 'Query';
   mountains?: Maybe<Array<Maybe<Mountain>>>;
+};
+
+export type DeleteMountainPayload = {
+  __typename?: 'deleteMountainPayload';
+  id: Scalars['ID'];
 };
 
 
@@ -98,8 +119,10 @@ export type ResolversTypes = {
   Boolean: ResolverTypeWrapper<Scalars['Boolean']>;
   ID: ResolverTypeWrapper<Scalars['ID']>;
   Mountain: ResolverTypeWrapper<Mountain>;
+  Mutation: ResolverTypeWrapper<{}>;
   Query: ResolverTypeWrapper<{}>;
   String: ResolverTypeWrapper<Scalars['String']>;
+  deleteMountainPayload: ResolverTypeWrapper<DeleteMountainPayload>;
 };
 
 /** Mapping between all available schema types and the resolvers parents */
@@ -107,22 +130,35 @@ export type ResolversParentTypes = {
   Boolean: Scalars['Boolean'];
   ID: Scalars['ID'];
   Mountain: Mountain;
+  Mutation: {};
   Query: {};
   String: Scalars['String'];
+  deleteMountainPayload: DeleteMountainPayload;
 };
 
 export type MountainResolvers<ContextType = any, ParentType extends ResolversParentTypes['Mountain'] = ResolversParentTypes['Mountain']> = {
-  id?: Resolver<ResolversTypes['ID'], ParentType, ContextType>;
   name?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   __isTypeOf?: IsTypeOfResolverFn<ParentType, ContextType>;
+};
+
+export type MutationResolvers<ContextType = any, ParentType extends ResolversParentTypes['Mutation'] = ResolversParentTypes['Mutation']> = {
+  createMountain?: Resolver<ResolversTypes['Mountain'], ParentType, ContextType, RequireFields<MutationCreateMountainArgs, 'name'>>;
+  deleteMountain?: Resolver<ResolversTypes['deleteMountainPayload'], ParentType, ContextType, Partial<MutationDeleteMountainArgs>>;
 };
 
 export type QueryResolvers<ContextType = any, ParentType extends ResolversParentTypes['Query'] = ResolversParentTypes['Query']> = {
   mountains?: Resolver<Maybe<Array<Maybe<ResolversTypes['Mountain']>>>, ParentType, ContextType>;
 };
 
+export type DeleteMountainPayloadResolvers<ContextType = any, ParentType extends ResolversParentTypes['deleteMountainPayload'] = ResolversParentTypes['deleteMountainPayload']> = {
+  id?: Resolver<ResolversTypes['ID'], ParentType, ContextType>;
+  __isTypeOf?: IsTypeOfResolverFn<ParentType, ContextType>;
+};
+
 export type Resolvers<ContextType = any> = {
   Mountain?: MountainResolvers<ContextType>;
+  Mutation?: MutationResolvers<ContextType>;
   Query?: QueryResolvers<ContextType>;
+  deleteMountainPayload?: DeleteMountainPayloadResolvers<ContextType>;
 };
 

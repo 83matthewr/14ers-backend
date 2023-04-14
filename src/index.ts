@@ -1,25 +1,14 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import { readFileSync } from 'fs';
+import connectToDB from './config/db.ts';
+
+connectToDB()
+    .then(() => console.log("Connected to MongoDB"))
+    .catch(err => console.log(err));
 
 const typeDefs = readFileSync('./src/types/schema.graphql', { encoding: 'utf-8' });
-
-const mountains = [
-    {
-        id: '1234234324',
-        name: 'Mt Elbert',
-    },
-    {
-        id: '1234234325',
-        name: 'Quandary Peak',
-    },
-];
-
-const resolvers = {
-    Query: {
-      mountains: () => mountains
-    },
-  };
+import resolvers from './resolvers/index.ts';
 
 const server = new ApolloServer({
     typeDefs,
