@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Blanca Peak",
+    "elevation": 14350,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 37.577473,
+    "longitude": -105.485443,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/BlancaPeak/BlancaPeak.jpg"]
+  },
+  {
+    "name": "Capitol Peak",
+    "elevation": 14138,
+    "range": "Elk Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CapitolPeak/CapitolPeak.jpg"]
+  },
+  {
+    "name": "Castle Peak",
+    "elevation": 14274,
+    "range": "Elk Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CastlePeak/CastlePeak.jpg"]
+  },
+  {
+    "name": "Crestone Needle",
+    "elevation": 14196,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CrestoneNeedle/CrestoneNeedle.jpg"]
+  },
+  {
+    "name": "Crestone Peak",
+    "elevation": 14299,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CrestonePeak/CrestonePeak.jpg"]
+  },
+  {
+    "name": "Culebra Peak",
+    "elevation": 14053,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CulebraPeak/CulebraPeak.jpg"]
+  },
+  {
+    "name": "Ellingwood Point",
+    "elevation": 14057,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/EllingwoodPoint/EllingwoodPoint.jpg"]
+  },
+  {
+    "name": "Grays Peak",
+    "elevation": 14275,
+    "range": "Front Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/GraysPeak/GraysPeak.jpg"]
+  },
+  {
+    "name": "Handies Peak",
+    "elevation": 14058,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/HandiesPeak/HandiesPeak.jpg"]
+  },
+  {
+    "name": "Humboldt Peak",
+    "elevation": 14068,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/HumboldtPeak/HumboldtPeak.jpg"]
+  },
+  {
+    "name": "Huron Peak",
+    "elevation": 14006,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/HuronPeak/HuronPeak.jpg"]
+  },
+  {
+    "name": "Kit Carson Peak",
+    "elevation": 14167,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/KitCarsonPeak/KitCarsonPeak.jpg"]
+  },
+  {
+    "name": "La Plata Peak",
+    "elevation": 14344,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/LaPlataPeak/LaPlataPeak.jpg"]
+  },
+  {
+    "name": "Little Bear Peak",
+    "elevation": 14041,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/LittleBearPeak/LittleBearPeak.jpg"]
+  },
+  {
+    "name": "Longs Peak",
+    "elevation": 14259,
+    "range": "Front Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/LongsPeak/LongsPeak.jpg"]
+  },
+  {
+    "name": "Maroon Peak",
+    "elevation": 14163,
+    "range": "Elk Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MaroonPeak/MaroonPeak.jpg"]
+  },
+  {
+    "name": "Missouri Mountain",
+    "elevation": 14071,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MissouriMountain/MissouriMountain.jpg"]
+  },
+  {
+    "name": "Mount Antero",
+    "elevation": 14271,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountAntero/MountAntero.jpg"]
+  },
+  {
+    "name": "Mount Belford",
+    "elevation": 14202,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountBelford/MountBelford.jpg"]
+  },
+  {
+    "name": "Mount Bierstadt",
+    "elevation": 14066,
+    "range": "Front Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountBierstadt/MountBierstadt.jpg"]
+  },
+  {
+    "name": "Mount Bross",
+    "elevation": 14178,
+    "range": "Mosquito Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountBross/MountBross.jpg"]
+  },
+  {
+    "name": "Mount Columbia",
+    "elevation": 14075,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountColumbia/MountColumbia.jpg"]
+  },
+  {
+    "name": "Mount Democrat",
+    "elevation": 14154,
+    "range": "Mosquito Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountDemocrat/MountDemocrat.jpg"]
+  },
+  {
+    "name": "Mount Elbert",
+    "elevation": 14438,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountElbert/MountElbert.jpg"]
+  },
+  {
+    "name": "Mount Eolus",
+    "elevation": 14087,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountEolus/MountEolus.jpg"]
+  },
+  {
+    "name": "Mount Evans",
+    "elevation": 14268,
+    "range": "Front Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountEvans/MountEvans.jpg"]
+  },
+  {
+    "name": "Mount Harvard",
+    "elevation": 14424,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountHarvard/MountHarvard.jpg"]
+  },
+  {
+    "name": "Mount Lincoln",
+    "elevation": 14293,
+    "range": "Mosquito Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountLincoln/MountLincoln.jpg"]
+  },
+  {
+    "name": "Mount Lindsey",
+    "elevation": 14055,
+    "range": "Sangre de Cristo",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountLindsey/MountLindsey.jpg"]
+  },
+  {
+    "name": "Mount Massive",
+    "elevation": 14427,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountMassive/MountMassive.jpg"]
+  },
+  {
+    "name": "Mount of the Holy Cross",
+    "elevation": 14007,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountoftheHolyCross/MountoftheHolyCross.jpg"]
+  },
+  {
+    "name": "Mount Oxford",
+    "elevation": 14158,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountOxford/MountOxford.jpg"]
+  },
+  {
+    "name": "Mount Princeton",
+    "elevation": 14200,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountPrinceton/MountPrinceton.jpg"]
+  },
+  {
+    "name": "Mount Shavano",
+    "elevation": 14230,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountShavano/MountShavano.jpg"]
+  },
+  {
+    "name": "Mount Sherman",
+    "elevation": 14043,
+    "range": "Mosquito Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountSherman/MountSherman.jpg"]
+  },
+  {
+    "name": "Mount Sneffels",
+    "elevation": 14155,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountSneffels/MountSneffels.jpg"]
+  },
+  {
+    "name": "Mount Wilson",
+    "elevation": 14256,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountWilson/MountWilson.jpg"]
+  },
+  {
+    "name": "Mount Yale",
+    "elevation": 14200,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountYale/MountYale.jpg"]
+  },
+  {
+    "name": "North Maroon Peak",
+    "elevation": 14022,
+    "range": "Elk Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/NorthMaroonPeak/NorthMaroonPeak.jpg"]
+  },
+  {
+    "name": "Pikes Peak",
+    "elevation": 14109,
+    "range": "Front Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/PikesPeak/PikesPeak.jpg"]
+  },
+  {
+    "name": "Pyramid Peak",
+    "elevation": 14029,
+    "range": "Elk Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/PyramidPeak/PyramidPeak.jpg"]
+  },
+  {
+    "name": "Quandary Peak",
+    "elevation": 14272,
+    "range": "Tenmile Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/QuandaryPeak/QuandaryPeak.jpg"]
+  },
+  {
+    "name": "Redcloud Peak",
+    "elevation": 14037,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/RedcloudPeak/RedcloudPeak.jpg"]
+  },
+  {
+    "name": "San Luis Peak",
+    "elevation": 14023,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SanLuisPeak/SanLuisPeak.jpg"]
+  },
+  {
+    "name": "Snowmass Mountain",
+    "elevation": 14105,
+    "range": "Elk Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SnowmassMountain/SnowmassMountain.jpg"]
+  },
+  {
+    "name": "Sunlight Peak",
+    "elevation": 14061,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SunlightPeak/SunlightPeak.jpg"]
+  },
+  {
+    "name": "Sunshine Peak",
+    "elevation": 14004,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SunshinePeak/SunshinePeak.jpg"]
+  },
+  {
+    "name": "Tabeguache Peak",
+    "elevation": 14158,
+    "range": "Sawatch Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/TabeguachePeak/TabeguachePeak.jpg"]
+  },
+  {
+    "name": "Torreys Peak",
+    "elevation": 14272,
+    "range": "Front Range",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/TorreysPeak/TorreysPeak.jpg"]
+  },
+  {
+    "name": "Uncompahgre Peak",
+    "elevation": 14318,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/UncompahgrePeak/UncompahgrePeak.jpg"]
+  },
+  {
+    "name": "Wetterhorn Peak",
+    "elevation": 14021,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/WetterhornPeak/WetterhornPeak.jpg"]
+  },
+  {
+    "name": "Wilson Peak",
+    "elevation": 14021,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/WilsonPeak/WilsonPeak.jpg"]
+  },
+  {
+    "name": "Windom Peak",
+    "elevation": 14089,
+    "range": "San Juan Mountains",
+    "routes": [],
+    "latitude": 39.150166,
+    "longitude": -107.083221,
+    "imgs": ["https://14ers-backend-assets.s3.us-east-2.amazonaws.com/WindomPeak/WindomPeak.jpg"]
+  }
+]

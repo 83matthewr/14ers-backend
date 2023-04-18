@@ -5,8 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "generate": "graphql-codegen --config codegen.ts",
-    "compile": "npm run generate && tsc",
     "start": "nodemon --esm src/index.ts"
   },
   "keywords": [],
