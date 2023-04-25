@@ -1,0 +1,743 @@
+[{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edb4"
+  },
+  "name": "Blanca Peak - Northwest Ridge",
+  "class": 2,
+  "trailhead": "Lake Como",
+  "start_elevation": 8000,
+  "summit_elevation": 14350,
+  "total_gain": 6500,
+  "total_distance": 17,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/BlancaPeak/BlancaPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edb5"
+  },
+  "name": "Capitol Peak - Northeast Ridge",
+  "class": 4,
+  "trailhead": "Capitol Creek",
+  "start_elevation": 9450,
+  "summit_elevation": 14138,
+  "total_gain": 5300,
+  "total_distance": 17,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CapitolPeak/CapitolPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edb6"
+  },
+  "name": "Castle Peak - Northeast Ridge",
+  "class": 2,
+  "trailhead": "Castle Creek",
+  "start_elevation": 9800,
+  "summit_elevation": 14274,
+  "total_gain": 4600,
+  "total_distance": 13.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CastlePeak/CastlePeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edb7"
+  },
+  "name": "Crestone Needle - South Face",
+  "class": 4,
+  "trailhead": "South Colony Lakes",
+  "start_elevation": 9900,
+  "summit_elevation": 14196,
+  "total_gain": 4400,
+  "total_distance": 12,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CrestoneNeedle/CrestoneNeedleRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edb8"
+  },
+  "name": "Crestone Peak - South Face",
+  "class": 3,
+  "trailhead": "South Colony Lakes",
+  "start_elevation": 9900,
+  "summit_elevation": 14299,
+  "total_gain": 5700,
+  "total_distance": 14,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CrestonePeak/CrestonePeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edb9"
+  },
+  "name": "Culebra Peak - Northwest Ridge",
+  "class": 2,
+  "trailhead": "Culebra",
+  "start_elevation": 11240,
+  "summit_elevation": 14053,
+  "total_gain": 2700,
+  "total_distance": 5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/CulebraPeak/CulebraPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edba"
+  },
+  "name": "Ellingwood Point - South Face",
+  "class": 2,
+  "trailhead": "Lake Como",
+  "start_elevation": 8000,
+  "summit_elevation": 14057,
+  "total_gain": 6200,
+  "total_distance": 17,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/EllingwoodPoint/EllingwoodPointRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edbb"
+  },
+  "name": "Grays Peak - North Slopes",
+  "class": 1,
+  "trailhead": "Grays Peak",
+  "start_elevation": 11280,
+  "summit_elevation": 14275,
+  "total_gain": 3000,
+  "total_distance": 7.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/GraysPeak/GraysPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edbc"
+  },
+  "name": "Handies Peak - Southwest Slopes",
+  "class": 1,
+  "trailhead": "American Basin",
+  "start_elevation": 11600,
+  "summit_elevation": 14058,
+  "total_gain": 2500,
+  "total_distance": 5.75,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/HandiesPeak/HandiesPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edbd"
+  },
+  "name": "Humboldt Peak - West Ridge",
+  "class": 2,
+  "trailhead": "South Colony Lakes",
+  "start_elevation": 9950,
+  "summit_elevation": 14068,
+  "total_gain": 4200,
+  "total_distance": 11,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/HumboldtPeak/HumboldtPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edbe"
+  },
+  "name": "Huron Peak - Northwest Slopes",
+  "class": 2,
+  "trailhead": "Clear Creek/S. Winfield",
+  "start_elevation": 10560,
+  "summit_elevation": 14006,
+  "total_gain": 3500,
+  "total_distance": 6.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/HuronPeak/HuronPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edbf"
+  },
+  "name": "Kit Carson Peak - Via Challenger Point",
+  "class": 3,
+  "trailhead": "Willow Creek",
+  "start_elevation": 8850,
+  "summit_elevation": 14167,
+  "total_gain": 6250,
+  "total_distance": 15,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/KitCarsonPeak/KitCarsonPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc0"
+  },
+  "name": "La Plata Peak - Northwest Ridge",
+  "class": 2,
+  "trailhead": "La Plata Peak",
+  "start_elevation": 10000,
+  "summit_elevation": 14344,
+  "total_gain": 4500,
+  "total_distance": 9.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/LaPlataPeak/LaPlataPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc1"
+  },
+  "name": "Little Bear Peak - West Ridge and Southwest Face",
+  "class": 4,
+  "trailhead": "Lake Como",
+  "start_elevation": 8000,
+  "summit_elevation": 14041,
+  "total_gain": 6200,
+  "total_distance": 14,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/LittleBearPeak/LittleBearPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc2"
+  },
+  "name": "Longs Peak - Keyhole Route",
+  "class": 3,
+  "trailhead": "Longs Peak",
+  "start_elevation": 9400,
+  "summit_elevation": 14259,
+  "total_gain": 5100,
+  "total_distance": 14.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/LongsPeak/LongsPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc3"
+  },
+  "name": "Maroon Peak - South Ridge",
+  "class": 3,
+  "trailhead": "Maroon Lake",
+  "start_elevation": 9590,
+  "summit_elevation": 14163,
+  "total_gain": 4800,
+  "total_distance": 12,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MaroonPeak/MaroonPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc4"
+  },
+  "name": "Missouri Mountain - Northwest Ridge",
+  "class": 2,
+  "trailhead": "Missouri Gulch",
+  "start_elevation": 9650,
+  "summit_elevation": 14071,
+  "total_gain": 4500,
+  "total_distance": 10.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MissouriMountain/MissouriMountainRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc5"
+  },
+  "name": "Mount Antero - West Slopes",
+  "class": 2,
+  "trailhead": "Baldwin Gulch",
+  "start_elevation": 9400,
+  "summit_elevation": 14271,
+  "total_gain": 5200,
+  "total_distance": 15.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountAntero/MountAnteroRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc6"
+  },
+  "name": "Mount Belford - Northwest Ridge",
+  "class": 2,
+  "trailhead": "Missouri Gulch",
+  "start_elevation": 9650,
+  "summit_elevation": 14202,
+  "total_gain": 4500,
+  "total_distance": 8,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountBelford/MountBelfordRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc7"
+  },
+  "name": "Mount Bierstadt - West Slopes",
+  "class": 2,
+  "trailhead": "Guanella Pass",
+  "start_elevation": 11669,
+  "summit_elevation": 14066,
+  "total_gain": 2850,
+  "total_distance": 7.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountBierstadt/MountBierstadtRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc8"
+  },
+  "name": "Mount Bross - West Slopes",
+  "class": 2,
+  "trailhead": "Kite Lake",
+  "start_elevation": 12000,
+  "summit_elevation": 14178,
+  "total_gain": 2250,
+  "total_distance": 3.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountBross/MountBrossRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edc9"
+  },
+  "name": "Mount Columbia - West Slopes",
+  "class": 2,
+  "trailhead": "North Cottonwood Creek",
+  "start_elevation": 9900,
+  "summit_elevation": 14075,
+  "total_gain": 4250,
+  "total_distance": 12,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountColumbia/MountColumbiaRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edca"
+  },
+  "name": "Mount Democrat - East Slope",
+  "class": 2,
+  "trailhead": "Kite Lake",
+  "start_elevation": 12000,
+  "summit_elevation": 14154,
+  "total_gain": 2150,
+  "total_distance": 4,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountDemocrat/MountDemocratRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edcb"
+  },
+  "name": "Mount Elbert - Northeast Ridge",
+  "class": 1,
+  "trailhead": "Mt. Elbert",
+  "start_elevation": 10040,
+  "summit_elevation": 14438,
+  "total_gain": 4700,
+  "total_distance": 9.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountElbert/MountElbertRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edcc"
+  },
+  "name": "Mount Eolus - Northeast Ridge",
+  "class": 3,
+  "trailhead": "Needleton",
+  "start_elevation": 11100,
+  "summit_elevation": 14087,
+  "total_gain": 6100,
+  "total_distance": 18,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountEolus/MountEolusRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edcd"
+  },
+  "name": "Mount Evans - West Ridge from Summit Lake",
+  "class": 2,
+  "trailhead": "Evans Summit Lake",
+  "start_elevation": 12850,
+  "summit_elevation": 14268,
+  "total_gain": 2000,
+  "total_distance": 5.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountEvans/MountEvansRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edce"
+  },
+  "name": "Mount Harvard - South Slopes",
+  "class": 2,
+  "trailhead": "North Cottonwood Creek",
+  "start_elevation": 9900,
+  "summit_elevation": 14424,
+  "total_gain": 4600,
+  "total_distance": 14,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountHarvard/MountHarvardRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edcf"
+  },
+  "name": "Mount Lincoln - West Ridge",
+  "class": 2,
+  "trailhead": "Kite Lake",
+  "start_elevation": 12000,
+  "summit_elevation": 14293,
+  "total_gain": 2600,
+  "total_distance": 6,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountLincoln/MountLincolnRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd0"
+  },
+  "name": "Mount Lindsey - Northwest Gully",
+  "class": 3,
+  "trailhead": "Huerfano/Lily Lake",
+  "start_elevation": 10700,
+  "summit_elevation": 14055,
+  "total_gain": 3500,
+  "total_distance": 8.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountLindsey/MountLindseyRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd1"
+  },
+  "name": "Mount Massive - East Slopes",
+  "class": 2,
+  "trailhead": "Mt. Massive",
+  "start_elevation": 10080,
+  "summit_elevation": 14427,
+  "total_gain": 4500,
+  "total_distance": 14.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountMassive/MountMassiveRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd2"
+  },
+  "name": "Mount of the Holy Cross - North Ridge",
+  "class": 2,
+  "trailhead": "Half Moon",
+  "start_elevation": 10320,
+  "summit_elevation": 14007,
+  "total_gain": 5600,
+  "total_distance": 12,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountoftheHolyCross/MountoftheHolyCrossRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd3"
+  },
+  "name": "Mount Oxford - Via Mt. Belford",
+  "class": 2, 
+  "trailhead": "Missouri Gulch",
+  "start_elevation": 9650,
+  "summit_elevation": 14158,
+  "total_gain": 5900,
+  "total_distance": 11,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountOxford/MountOxfordRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd4"
+  },
+  "name": "Mount Princeton - East Slopes",
+  "class": 2,
+  "trailhead": "Mt. Princeton Road",
+  "start_elevation": 8900,
+  "summit_elevation": 14200,
+  "total_gain": 5400,
+  "total_distance": 13.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountPrinceton/MountPrincetonRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd5"
+  },
+  "name": "Mount Shavano - East Slopes",
+  "class": 2,
+  "trailhead": "Shavano/Tabeguache",
+  "start_elevation": 9750,
+  "summit_elevation": 14230,
+  "total_gain": 4600,
+  "total_distance": 9,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountShavano/MountShavanoRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd6"
+  },
+  "name": "Mount Sherman - Southwest Ridge",
+  "class": 2,
+  "trailhead": "Fourmile Creek",
+  "start_elevation": 12000,
+  "summit_elevation": 14043,
+  "total_gain": 2100,
+  "total_distance": 5.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountSherman/MountShermanRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd7"
+  },
+  "name": "Mount Sneffels - South Slopes",
+  "class": 3,
+  "trailhead": "Yankee Boy Basin",
+  "start_elevation": 11350,
+  "summit_elevation": 14155,
+  "total_gain": 2900,
+  "total_distance": 6,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountSneffels/MountSneffelsRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd8"
+  },
+  "name": "Mount Wilson - North Slopes",
+  "class": 4,
+  "trailhead": "Navajo Basin",
+  "start_elevation": 9350,
+  "summit_elevation": 14256,
+  "total_gain": 5100,
+  "total_distance": 16,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountWilson/MountWilsonRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edd9"
+  },
+  "name": "Mount Yale - Southwest Slopes",
+  "class": 2,
+  "trailhead": "Denny Creek",
+  "start_elevation": 9900,
+  "summit_elevation": 14200,
+  "total_gain": 4300,
+  "total_distance": 9.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/MountYale/MountYaleRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edda"
+  },
+  "name": "North Maroon Peak - Northeast Ridge",
+  "class": 4,
+  "trailhead": "Maroon Lake",
+  "start_elevation": 9590,
+  "summit_elevation": 14022,
+  "total_gain": 4500,
+  "total_distance": 9.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/NorthMaroonPeak/NorthMaroonPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5eddb"
+  },
+  "name": "Pikes Peak - East Slopes",
+  "class": 1,
+  "trailhead": "Manitou Springs",
+  "start_elevation": 6650,
+  "summit_elevation": 14109,
+  "total_gain": 7600,
+  "total_distance": 24,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/PikesPeak/PikesPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5eddc"
+  },
+  "name": "Pyramid Peak - Northeast Ridge",
+  "class": 4,
+  "trailhead": "Maroon Lake",
+  "start_elevation": 9600,
+  "summit_elevation": 14029,
+  "total_gain": 4500,
+  "total_distance": 8.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/PyramidPeak/PyramidPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5eddd"
+  },
+  "name": "Quandary Peak - East Ridge",
+  "class": 1,
+  "trailhead": "Quandary",
+  "start_elevation": 10850,
+  "summit_elevation": 14272,
+  "total_gain": 3450,
+  "total_distance": 6.75,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/QuandaryPeak/QuandaryPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5edde"
+  },
+  "name": "Redcloud Peak - Northeast Ridge",
+  "class": 2,
+  "trailhead": "Silver Creek/Grizzly Gulch",
+  "start_elevation": 10400,
+  "summit_elevation": 14037,
+  "total_gain": 3700,
+  "total_distance": 9,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/RedcloudPeak/RedcloudPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5eddf"
+  },
+  "name": "San Luis Peak - Northeast Ridge",
+  "class": 1,
+  "trailhead": "Stewart Creek",
+  "start_elevation": 10500,
+  "summit_elevation": 14023,
+  "total_gain": 3600,
+  "total_distance": 13.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SanLuisPeak/SanLuisPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede0"
+  },
+  "name": "Snowmass Mountain - East Slopes",
+  "class": 3,
+  "trailhead": "Snowmass Creek",
+  "start_elevation": 8400,
+  "summit_elevation": 14105,
+  "total_gain": 5800,
+  "total_distance": 22,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SnowmassMountain/SnowmassMountainRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede1"
+  },
+  "name": "Sunlight Peak - South Face",
+  "class": 4,
+  "trailhead": "Needleton",
+  "start_elevation": 11100,
+  "summit_elevation": 14061,
+  "total_gain": 6000,
+  "total_distance": 17,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SunlightPeak/SunlightPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede2"
+  },
+  "name": "Sunshine Peak - Via Redcloud Peak",
+  "class": 2,
+  "trailhead": "Silver Creek/Grizzly Gulch",
+  "start_elevation": 10400,
+  "summit_elevation": 14004,
+  "total_gain": 4800,
+  "total_distance": 12.25,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/SunshinePeak/SunshinePeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede3"
+  },
+  "name": "Tabeguache Peak - Via Mt. Shavano",
+  "class": 2,
+  "trailhead": "Shavano/Tabeguache",
+  "start_elevation": 9750,
+  "summit_elevation": 14158,
+  "total_gain": 5600,
+  "total_distance": 11,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/TabeguachePeak/TabeguachePeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede4"
+  },
+  "name": "Torreys Peak - South Slopes",
+  "class": 1,
+  "trailhead": "Grays Peak",
+  "start_elevation": 11280,
+  "summit_elevation": 14272,
+  "total_gain": 3000,
+  "total_distance": 7.75,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/TorreysPeak/TorreysPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede5"
+  },
+  "name": "Uncompahgre Peak - South Ridge",
+  "class": 2,
+  "trailhead": "Nellie Creek",
+  "start_elevation": 11400,
+  "summit_elevation": 14318,
+  "total_gain": 5505,
+  "total_distance": 15.5,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/UncompahgrePeak/UncompahgrePeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede6"
+  },
+  "name": "Wetterhorn Peak - Southeast Ridge",
+  "class": 3,
+  "trailhead": "Matterhorn Creek",
+  "start_elevation": 10800,
+  "summit_elevation": 14021,
+  "total_gain": 3300,
+  "total_distance": 7,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/WetterhornPeak/WetterhornPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede7"
+  },
+  "name": "Wilson Peak - Southwest Ridge",
+  "class": 3,
+  "trailhead": "Rock of Ages",
+  "start_elevation": 10350,
+  "summit_elevation": 14021,
+  "total_gain": 3900,
+  "total_distance": 10,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/WilsonPeak/WilsonPeakRoute.jpg"
+  ]
+},{
+  "mountain": {
+    "$oid": "6448383349f85b4fd7e5ede8"
+  },
+  "name": "Windom Peak - West Ridge",
+  "class": 2,
+  "trailhead": "Needleton",
+  "start_elevation": 11100,
+  "summit_elevation": 14089,
+  "total_gain": 6000,
+  "total_distance": 18,
+  "imgs": [
+    "https://14ers-backend-assets.s3.us-east-2.amazonaws.com/WindomPeak/WindomPeakRoute.jpg"
+  ]
+}]

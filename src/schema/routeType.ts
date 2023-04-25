@@ -1,4 +1,4 @@
-import graphql from 'graphql';
+import graphql, { GraphQLFloat } from 'graphql';
 const {
   GraphQLObjectType,
   GraphQLID,
@@ -9,7 +9,6 @@ const {
 import MountainType from './mountainType.ts';
 import Route from '../models/route.ts';
 
-// @ts-expect-error
 const RouteType = new GraphQLObjectType({
   name:  'RouteType',
   fields: () => ({
@@ -20,7 +19,6 @@ const RouteType = new GraphQLObjectType({
       resolve(parentValue) {
           return Route.findById(parentValue).populate('mountain')
             .then(route => {
-              console.log(route);
               if (route) return route.mountain;
               else return null;
             });
@@ -31,7 +29,7 @@ const RouteType = new GraphQLObjectType({
     start_elevation: { type: GraphQLInt },
     summit_elevation: { type: GraphQLInt },
     total_gain: { type: GraphQLInt },
-    total_distance: { type: GraphQLInt },
+    total_distance: { type: GraphQLFloat },
     imgs: { type: new GraphQLList(GraphQLString) }
   })
 });
