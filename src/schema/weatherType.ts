@@ -9,7 +9,7 @@ const {
 const WeatherType = new GraphQLObjectType({
   name:  'WeatherType',
   fields: () => ({
-    temperature: { type: GraphQLFloat },
+    temp: { type: GraphQLFloat },
     feelslike: { type: GraphQLFloat },
     condition: { type: GraphQLString },
     windspeed: { type: GraphQLFloat },
